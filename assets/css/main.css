@@ -2160,22 +2160,6 @@ input, select, textarea {
 		@media screen and (max-width: 1920px) {
 
 			.main.style2 .content {
-				width: 40%;
-			}
-
-		}
-
-		@media screen and (max-width: 1280px) {
-
-			.main.style2 .content {
-				width: 50%;
-			}
-
-		}
-
-		@media screen and (max-width: 1000px) {
-
-			.main.style2 .content {
 				width: 60%;
 			}
 
